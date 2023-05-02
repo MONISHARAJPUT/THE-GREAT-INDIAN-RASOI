@@ -1,2 +1,2 @@
 # THE-GREAT-INDIAN-RASOI
-Static website designed using HTML5 and CSS
+Static webpage designed using HTML5 and CSS
